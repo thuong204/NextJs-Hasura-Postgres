@@ -3,5 +3,5 @@ export const metadata = {
   description: "About page",
 };
 export default function About() {
-  return <div className="">Trang About</div>;
+  return <div className="text-red-500">Trang About</div>;
 }
